@@ -1,0 +1,41 @@
+.body{
+  src:"";
+  
+  background-color: blue;
+}
+center
+h1{
+    color:red;
+}
+section
+h1{
+    color: rgb(82, 209, 82);
+}
+nav
+a{
+    color: #C51077;
+}
+nav
+h2
+a{
+  color: red;
+}
+h2{
+  color:#003399;
+}
+p{
+  font-family: 'Courier New', Courier, monospace;
+};
+section
+li{
+  color: yellow;
+  font-size: medium;
+}
+.contact-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-form label, .contact-form input, .contact-form textarea, .contact-form button {
+  margin-bottom: 10px;
+}
